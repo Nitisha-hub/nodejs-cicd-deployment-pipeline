@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-cicd-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js CI/CD Pipeline using AWS CodePipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
